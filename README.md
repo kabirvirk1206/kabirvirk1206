@@ -5,7 +5,7 @@
 
 - 📫 How to reach me  => **kabirvirk1206@gmail.com**
 
-- ⚡ Fun fact: ***this is my second third github account in two years***
+- ⚡ Fun fact: ***this is my third github account in two years***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
