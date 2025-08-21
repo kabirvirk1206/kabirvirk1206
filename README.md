@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kabir Virk</h1>
 <h3 align="center">Electrical Engineering @ UWaterloo</h3>
 
-- 🔭 I’m currently working on **my personal portiflio**
+- 🔭 I’m currently working on **Learning PCB design using altium**
 
 - 📫 How to reach me  => **kabirvirk1206@gmail.com**
 
