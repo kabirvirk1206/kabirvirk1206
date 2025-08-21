@@ -7,7 +7,6 @@
 
 - ⚡ Fun fact: ***this is my third github account in two years***
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
