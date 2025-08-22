@@ -7,7 +7,6 @@
 
 - ⚡ Fun fact: ***this is my third github account in two years**
 
-- 
 ### 🤝 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kabir-virk/)
 
