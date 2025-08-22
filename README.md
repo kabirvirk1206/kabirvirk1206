@@ -6,9 +6,10 @@
 - 📫 How to reach me  => **kabirvirk1206@gmail.com | kabir.virk@uwaterloo.ca**
 
 - ⚡ Fun fact: ***this is my third github account in two years***
-
-### 🤝 Connect with me <a href="https://www.linkedin.com/in/kabir-virk/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Kabir Virk LinkedIn" width="28" height="28" style="position:relative; top:5px; margin-left:6px;" /></a>
-
+### 🤝 Connect with me  
+<a href="https://www.linkedin.com/in/kabir-virk/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35"/>
+</a>
 
 
 
